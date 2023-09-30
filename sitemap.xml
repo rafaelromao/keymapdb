@@ -43,9 +43,11 @@
     <url><loc>./keymaps/AlaaSaadAbdo/</loc></url>
     <url><loc>./keymaps/Dakes/</loc></url>
     <url><loc>./keymaps/JannikWibker/</loc></url>
+    <url><loc>./keymaps/MakotoKurauchi-helix_froggy/</loc></url>
     <url><loc>./keymaps/MicahElliot/</loc></url>
     <url><loc>./keymaps/NeonSpork/</loc></url>
     <url><loc>./keymaps/Vermoot/</loc></url>
+    <url><loc>./keymaps/ajarov/</loc></url>
     <url><loc>./keymaps/alper/</loc></url>
     <url><loc>./keymaps/alterecco-zmk/</loc></url>
     <url><loc>./keymaps/alvaro_prieto/</loc></url>
@@ -53,12 +55,15 @@
     <url><loc>./keymaps/archydragon/</loc></url>
     <url><loc>./keymaps/bingocaller/</loc></url>
     <url><loc>./keymaps/bpruitt_goddard/</loc></url>
+    <url><loc>./keymaps/braindefender-wellum/</loc></url>
     <url><loc>./keymaps/brandonschlack/</loc></url>
     <url><loc>./keymaps/bsag/</loc></url>
     <url><loc>./keymaps/caksoylar/</loc></url>
     <url><loc>./keymaps/callum_oakley/</loc></url>
+    <url><loc>./keymaps/casuanoob/</loc></url>
     <url><loc>./keymaps/chaosk/</loc></url>
     <url><loc>./keymaps/chusecubr/</loc></url>
+    <url><loc>./keymaps/daisukekoba/</loc></url>
     <url><loc>./keymaps/dasmikko/</loc></url>
     <url><loc>./keymaps/datagrok/</loc></url>
     <url><loc>./keymaps/dbroqua/</loc></url>
@@ -94,7 +99,9 @@
     <url><loc>./keymaps/manna_harbour/</loc></url>
     <url><loc>./keymaps/markstos/</loc></url>
     <url><loc>./keymaps/matobaa-braille/</loc></url>
+    <url><loc>./keymaps/mattgemmell/</loc></url>
     <url><loc>./keymaps/metheon/</loc></url>
+    <url><loc>./keymaps/minusfive/</loc></url>
     <url><loc>./keymaps/mrkskk/</loc></url>
     <url><loc>./keymaps/nerdypepper/</loc></url>
     <url><loc>./keymaps/nfriend/</loc></url>
@@ -103,6 +110,7 @@
     <url><loc>./keymaps/peterxjang/</loc></url>
     <url><loc>./keymaps/pfn/</loc></url>
     <url><loc>./keymaps/precondition/</loc></url>
+    <url><loc>./keymaps/pseudoku-ergowarp/</loc></url>
     <url><loc>./keymaps/purple_rw/</loc></url>
     <url><loc>./keymaps/rafaelromao/</loc></url>
     <url><loc>./keymaps/ranzq/</loc></url>
@@ -111,6 +119,7 @@
     <url><loc>./keymaps/rootiest/</loc></url>
     <url><loc>./keymaps/rstacruz/</loc></url>
     <url><loc>./keymaps/sartak/</loc></url>
+    <url><loc>./keymaps/scylla_german_gaming/</loc></url>
     <url><loc>./keymaps/seancolsen/</loc></url>
     <url><loc>./keymaps/skychil/</loc></url>
     <url><loc>./keymaps/smt-minivan/</loc></url>
@@ -121,7 +130,9 @@
     <url><loc>./keymaps/treeman/</loc></url>
     <url><loc>./keymaps/tw1t611/</loc></url>
     <url><loc>./keymaps/tynanbe/</loc></url>
+    <url><loc>./keymaps/urob-corne/</loc></url>
     <url><loc>./keymaps/urob/</loc></url>
+    <url><loc>./keymaps/via-charybdis_nano/</loc></url>
     <url><loc>./keymaps/vvhg1/</loc></url>
     <url><loc>./keymaps/waffle87/</loc></url>
     <url><loc>./keymaps/waynehoover/</loc></url>
