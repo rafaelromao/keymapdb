@@ -2134,7 +2134,7 @@
         "title": "rafaelromao's keyboard layout",
         "keymapUrl": "https://github.com/rafaelromao/keyboards",
         "author": "rafaelromao",
-        "keymapImage": "/assets/img/keymaps/rafaelromao.png",
+        "keymapImage": "https://raw.githubusercontent.com/rafaelromao/keyboards/main/img/overview.png",
         "keyCount": 24,
         "firmwares": ["QMK","ZMK"],
         "keyboard": "Rommana",
